@@ -8,7 +8,7 @@ namespace sampleWebAppForAzure.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "TEST"//"Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Test"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
